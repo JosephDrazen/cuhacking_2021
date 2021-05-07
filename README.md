@@ -27,6 +27,14 @@ Their contact data is then automatically added to our secure database where the 
 * Deployed On: Heroku 
 * Libraries: @material-ui, mongoose, react-qr-reader, qrcode.react
 
+Why use these technologies? 
+
+The need for a fluid and user-friendly design led to us choosing to React for our front end. The use of state allows us to create a one-page application that is easy for a user to click through and understand. 
+Express gave us a robust backend that worked well with React and MongoDB
+MongoDB and Atlas were used to create an application with a secure backend for authentication and the handling of user data 
+
+
+
 ## Contributors:
 - Anthony Zhu - https://www.linkedin.com/in/anthony-y-zhu/
 - Joseph Malovic - https://www.linkedin.com/in/josephmalovic/
