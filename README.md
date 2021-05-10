@@ -29,10 +29,10 @@ Their contact data is then automatically added to our secure database where the 
 **Built with:**
 
 * Frontend: [React](https://reactjs.org)
-* Backend: [Express](node express) [Node](https://nodejs.org/en/)
+* Backend: [Express](https://expressjs.com), [Node](https://nodejs.org/en/)
 * Database: [MongoDB](https://www.mongodb.com)
 * Deployed On: [Heroku](https://www.heroku.com)
-* Libraries: @material-ui, mongoose, react-qr-reader, qrcode.react
+* Libraries: [material-ui](https://material-ui.com), [react-qr-reader](https://www.npmjs.com/package/react-qr-reader), [qrcode.react](https://www.npmjs.com/package/qrcode.react)
 
 Why we chose these technologies? 
 
